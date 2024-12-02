@@ -11,8 +11,6 @@ main = do
         let distances = calcDistances sortedLeftSide sortedRightSide
         print (sum distances)
 
-
-
 getFirstNumbers :: [String] -> [Int]
 getFirstNumbers linesOfInput = map getFirstNumber linesOfInput
 
