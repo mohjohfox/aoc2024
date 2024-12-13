@@ -57,5 +57,8 @@ fun main() {
 
     // Day 12
     //Day12().partOne(FileReader.readFile("puzzle/day12/example.txt"))
-    Day12().partOne(FileReader.readFile("puzzle/day12/example2.txt"))
+    //Day12().partOne(FileReader.readFile("puzzle/day12/example2.txt"))
+    //Day12().partOne(FileReader.readFile("puzzle/day12/example3.txt"))
+    //Day12().partOne(FileReader.readFile("puzzle/day12/puzzle.txt"))
+    Day12Part2().partOne(FileReader.readFile("puzzle/day12/example.txt"))
 }
