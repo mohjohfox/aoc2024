@@ -60,5 +60,31 @@ fun main() {
     //Day12().partOne(FileReader.readFile("puzzle/day12/example2.txt"))
     //Day12().partOne(FileReader.readFile("puzzle/day12/example3.txt"))
     //Day12().partOne(FileReader.readFile("puzzle/day12/puzzle.txt"))
-    Day12Part2().partOne(FileReader.readFile("puzzle/day12/example.txt"))
+    //Day12Part2().partOne(FileReader.readFile("puzzle/day12/example.txt"))
+
+    // Day 13
+    //Day13().partOne(FileReader.readFile("puzzle/day13/example.txt"))
+    //Day13().partOne(FileReader.readFile("puzzle/day13/puzzle.txt"))
+
+    // Day 14
+    //Day14().partOne(FileReader.readFile("puzzle/day14/example.txt"))
+    //Day14().partOne(FileReader.readFile("puzzle/day14/example2.txt"))
+    //Day14().partOne(FileReader.readFile("puzzle/day14/puzzle.txt"))
+
+    // Day 15
+    //Day15().partOne(FileReader.readFile("puzzle/day15/example.txt"))
+    //Day15().partOne(FileReader.readFile("puzzle/day15/example2.txt"))
+    //Day15().partOne(FileReader.readFile("puzzle/day15/puzzle.txt"))
+    //Day15Part2().partOne(FileReader.readFile("puzzle/day15/example.txt"))
+    //Day15Part2().partOne(FileReader.readFile("puzzle/day15/example2.txt"))
+    //Day15Part2().partOne(FileReader.readFile("puzzle/day15/example3.txt"))
+    //Day15Part2().partOne(FileReader.readFile("puzzle/day15/puzzle.txt"))
+
+    // Day 16
+    //Day16().partOne(FileReader.readFile("puzzle/day16/example.txt"))
+    //Day16().partOne(FileReader.readFile("puzzle/day16/example2.txt"))
+    //Day16().partOne(FileReader.readFile("puzzle/day16/puzzle.txt"))
+    //Day162().partOne(FileReader.readFile("puzzle/day16/example.txt"))
+    //Day162().partOne(FileReader.readFile("puzzle/day16/example2.txt"))
+    //Day162().partOne(FileReader.readFile("puzzle/day16/puzzle.txt"))
 }
